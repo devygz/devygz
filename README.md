@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Isik.</h1>
+<h1 align="center">Hi, I'm Isik.</h1>
 <h3 align="center">Frontend + Backend Developer who is in love with JavaScript</h3>
 
 - 🧪 Currently experimenting with **IDS/IPS and Network Security Systems**
