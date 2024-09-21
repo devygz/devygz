@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Isik.</h1>
 
 
-- 🧪 Currently experimenting with **IDS/IPS, Network Security Systems and Data Visualization**
+- 🧪 Currently experimenting with **Network Security Systems, Routing and Archival Storage Systems**
 
 - 👨‍💻 Many of my projects are available at [yagz.eu](yagz.eu)
 
