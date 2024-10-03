@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🧪 Currently experimenting with **Network Security Systems, Routing and Archival Storage Systems**
 
-- 👨‍💻 Many of my projects are available at [yagz.eu](yagz.eu)
+- 👨‍💻 Many of my projects are available at [yagz.eu](https://yagz.eu)
 
-- 📝 I sometimes write articles on [blog.yagz.eu](blog.yagz.eu)
+- 📝 I sometimes write articles on [blog.yagz.eu](https://blog.yagz.eu)
 
